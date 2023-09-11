@@ -26,7 +26,7 @@ To install the CASHU Auth WordPress Plugin, follow these steps:
 1. **Login with CASHU**:
    - On the WordPress login page, users will see a "Login with CASHU" button.
    - Clicking this button will initiate the CASHU login process.
-   
+
 2. **Sign Up with CASHU**:
    - Users can also choose to sign up using their CASHU credentials.
    - The plugin will guide them through a seamless registration process.
